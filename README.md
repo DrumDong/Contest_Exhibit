@@ -1,1 +1,1 @@
-![캡처](https://user-images.githubusercontent.com/49140971/82994712-8e5b0380-a03d-11ea-8e39-cad56bfc451f.PNG)
+[[동작하라]동작구빅데이터아이디어제안서.pdf](https://github.com/DrumDong/Contest_Exhibit/files/4687413/default.pdf)
