@@ -1,1 +1,1 @@
-asd
+[NS 홈쇼핑 판매 예측 및 편성표 제작](https://github.com/DrumDong/Contest_Exhibit/blob/master/NS%ED%99%88%EC%87%BC%ED%95%91/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D%EB%B6%84%EC%95%BC_%EC%B1%94%ED%94%BC%EC%96%B8%EB%A6%AC%EA%B7%B8_%EB%8F%99%EC%9E%91%ED%95%98%EB%9D%BC%ED%8C%80_%EA%B2%B0%EA%B3%BC%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf)
